@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 typedef struct {
-    char str[4]; // добавляем место для символа нуля
+    char str[5]; // добавляем место для символа нуля
     int num;
 } NumberRepr;
 
